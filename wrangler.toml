@@ -1,0 +1,7 @@
+name = "benchmark-data"
+main = "index.ts"
+compatibility_date = "2023-02-16"
+
+kv_namespaces = [
+  { binding = "BENCHMARK", id = "55bc7a138c7c41a7918cc9d36d4f55a2", preview_id = "55bc7a138c7c41a7918cc9d36d4f55a2" }
+]
