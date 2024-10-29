@@ -6,3 +6,7 @@ compatibility_date = "2023-02-16"
 binding = "BENCHMARK"
 database_name = "benchmark"
 database_id = "47a01c5a-072e-49dc-a9a0-c9095c17b399"
+
+[observability]
+enabled = true
+head_sampling_rate = 1
